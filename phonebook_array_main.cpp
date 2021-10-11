@@ -18,7 +18,7 @@ int main()
 		return;
 
 	}
-	cout << "\nÂâåäèòå ôàìèëèş äëÿ ïîèñêà: ";
+	cout << "\nĞ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ Ñ„Ğ°Ğ¼Ğ¸Ğ»Ğ¸Ñ Ğ´Ğ»Ñ Ğ¿Ğ¾Ğ¸ÑĞºĞ°: ";
 	getline(cin, key);
 	SearchingName(a, size, searching_name);
 
